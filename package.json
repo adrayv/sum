@@ -7,10 +7,17 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "prettier": {},
   "dependencies": {
+    "cookie": "^0.4.1",
+    "jsonwebtoken": "^8.5.1",
     "next": "12.0.7",
+    "plaid": "^9.10.0",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-cookie": "^4.1.1",
+    "react-dom": "17.0.2",
+    "react-plaid-link": "^3.2.1",
+    "superagent": "^7.0.2"
   },
   "devDependencies": {
     "eslint": "8.6.0",
